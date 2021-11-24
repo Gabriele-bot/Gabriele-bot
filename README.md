@@ -1,5 +1,11 @@
 ### Hi there 👋
+## 🔭 I’m currently working on neural network inference on FPGA
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriele-bot&show_icons=true&theme=chartreuse-dark&line_height=27")](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriele-bot&hide=Jupyter Notebook,TeX,java,html,Ada,V,C++&theme=chartreuse-dark" alt="Drawing" style="height: 150px">
+-->
 <!--
 **Gabriele-bot/Gabriele-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
