@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 🔭 I’m currently working on neural network inference on FPGA
+## 🔭 I’m currently working on neural network inferences on FPGA
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriele-bot&show_icons=true&theme=chartreuse-dark&line_height=27")](https://github.com/anuraghazra/github-readme-stats)
 
